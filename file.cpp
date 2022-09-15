@@ -12,7 +12,7 @@ using namespace std;
 int main()
 {
 
-  //Below we are initializing the variables
+  //Below the program is initializing the variables
   //One of the most important ones is generating a random num
   // With srand() and setting it to be within the limits of 0-100
   
