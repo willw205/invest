@@ -83,10 +83,8 @@ int main()
 	cout << "Thanks for playing!";
 	break;
 	
-      }
-      
+     } 
     }
-    
-    }
+   }
   }
 
